@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import logo from "./emoj.png";
+import '../App.css';
+import logo from "../emoj.png";
 import { Link } from "react-router-dom"
 
 function Nav() {
